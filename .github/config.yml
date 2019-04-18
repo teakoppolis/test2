@@ -1,3 +1,4 @@
 org: teakoppolis
 repoToOpenIssue: test2
 ${user} : true
+test: User Removed : ${user} \n [Gear Profile](https://gear.githubapp.com/users/${user})
